@@ -1,0 +1,12 @@
+name: environment
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - ipywidgets
+  - IPython
+  - matplotlib
+  - math
+  - chart_studio
+  - warnings
+  
